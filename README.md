@@ -6,4 +6,4 @@ Um simples bot para spam/flood de mensagens feito em python.
 
 ## Atenção
 
-O programa é extremamente instável, ao usar seja extremamente atento às instruções e não tente bugar o programa (não existe botão de emergência ou trava de segurança).
+O programa é extremamente instável, ao usar, fique atento às instruções e não tente bugar o programa (não existe botão de emergência ou trava de segurança).
